@@ -54,6 +54,7 @@ class Graph extends Component<IProps, {}> {
     }
   }
 
+
   componentDidUpdate() {
     if (this.table) {
       this.table.update(

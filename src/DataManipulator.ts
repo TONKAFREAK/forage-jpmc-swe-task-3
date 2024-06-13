@@ -14,6 +14,7 @@ export interface Row {
 export class DataManipulator {
 
   /*
+  
 
   static historicalData: { priceABC: number[], priceDEF: number[] } = {
     priceABC: [],
